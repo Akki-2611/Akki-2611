@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akki
 - 👀 I’m interested in learning by working on projects.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java & DSA.
+- 💞️ I’m looking to collaborate on C and C++ Projects.
 - 📫 How to reach me: ig:- e.ekta.a
 
 <!---
