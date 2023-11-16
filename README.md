@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akki
+- 👋 Hi, I’m Ekta
 - 👀 I’m interested in learning by working on projects.
 - 🌱 I’m currently learning Java & DSA.
 - 💞️ I’m looking to collaborate on C and C++ Projects.
